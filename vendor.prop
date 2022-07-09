@@ -1,0 +1,5 @@
+# TEE
+ro.mtk_microtrust_tee_support=1
+ro.hardware.gatekeeper=itrusty
+ro.hardware.keystore=itrusty
+ro.hardware.kmsetkey=itrusty
